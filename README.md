@@ -27,16 +27,3 @@ Project Hangman.
 
 ### Day 8 ###
 Function Parameters. Project: Caesar Cipher
-
-### Day 9 ###
-Dictionaries and Nesting. Project: Secret Auction
-
-### Day 10 ###
-Functions
-
-### Day 11 ###
-Blackjack
-
-
-
-
