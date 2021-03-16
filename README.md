@@ -1,6 +1,8 @@
 # 100-Days-Of-Code-Python
 
-This is a review of basics and fundamentals of Python.  1 hour a day for 100 days. Topics range from basics to advanced.
+Goal of the challenges is to do a 100 days of Python coding:  1 hour a day for 100 days. Topics range from basics to advanced.
+I will be adding the code (projects) regularly.
+
 
 ### Day 1 ###
 Working with Variables to Manage Data. Project band name generator.
