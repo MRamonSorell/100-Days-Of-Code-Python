@@ -27,3 +27,6 @@ Project Hangman.
 
 ### Day 8 ###
 Function Parameters. Project: Caesar Cipher
+
+### Day 9 ###
+SimpleGUI Calculator First Draft
